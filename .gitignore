@@ -1713,3 +1713,7 @@ backend/node_modules/object-assign/index.js
 backend/node_modules/object-assign/license
 backend/node_modules/object-assign/package.json
 backend/node_modules/object-assign/readme.md
+frontend/.eslintrc.cjs
+frontend/public/vite.svg
+frontend/src/assets/react.svg
+frontend/vite.config.js
